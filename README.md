@@ -1,10 +1,5 @@
-Exceptional Realty Group Website
----
+#Exceptional Realty Website ( Bootstrapped Version )
 
-# Description
-
-This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
-
-# Contact 
-
-email: bpaar1@gmail.com
+This is an example website using the Twitter bootstrap version 3 framework
+More information on using Bootstrap can be found at 
+[GetBootstrap.com](http://getbootstrap.com)
